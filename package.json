@@ -1,7 +1,7 @@
 {
-  "name": "topogram-react",
+  "name": "topograph",
   "version": "0.0.1",
-  "description": "Spatio-temporal network visualization component",
+  "description": "Spatio-temporal network visualization React component",
   "main": "src/app.js",
   "peerDependencies": {
     "react": "^15.4.2",
